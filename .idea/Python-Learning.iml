@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/ch01" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/site" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/ipynb/2-类型和运算/.ipynb_checkpoints" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.9 (learning-python-5e-my-src)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
